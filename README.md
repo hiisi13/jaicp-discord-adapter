@@ -1,5 +1,5 @@
 # jaicp-discord-adapter
-A companion repository for "Building an Unsplash bot for Discord post" on Dev.to.
+A companion repository for [Building an Unsplash bot for Discord post"](https://dev.to/hiisi13/building-an-unsplash-bot-for-discord-60i) post on Dev.to.
 
 This is a JAICP-Discord adapter part - you also need [a chatbot project](https://github.com/hiisi13/jaicp-discord-unsplash-bot) for the whole thing to work.
 
